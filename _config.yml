@@ -1,0 +1,18 @@
+# Site settings
+title: "Robustness and Adversarial Examples in NLP"
+email: robustnlp-tutorial@googlegroups.c
+baseurl: ""
+url: "robustnlp-tutorial.github.io"
+
+navbar-links:
+    Overview: "/#overview"
+    Speakers: "/#speakers"
+    Slides: "/#slides"
+    References: "references"
+
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
