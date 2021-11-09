@@ -45,5 +45,21 @@ We will conclude the tutorial by outlining future research directions in this ar
     </div>
 </div>
 
+## Outline
+
+- Motivation and Overview 
+- Finding Lack of Robustness (Attacks) 
+    1. Writing Challenging Examples
+    1. Generating Adversarial Examples
+    1. Adversarial Trigger and Text Generation 
+    1. Training Time Attack
+- Making Models Robust (Defenses)
+    1. Robustness to Spurious Correlations
+    1. Adversarial Training for Defense
+    1. Certified Robustness in NLP
+    1. Test time-defense: detecting adversarial examples
+- Conclusion, Future Directions, and Discussion 
+
+
 ## Slides
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQObhZjgRpHPVStVU2V87P-E4LgsD764B2bY4CUOhOEhORPMXQOnKpmxmtoePFvBW81NDrCn3VaOAT8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
