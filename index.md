@@ -4,6 +4,10 @@ layout: page
 permalink: /
 ---
 
+## Ask/Vote on Questions
+
+Ask your questions, and vote on others, here: https://app.sli.do/event/ucfbxrar
+
 ## Overview
 
 Recent studies show that many NLP systems are sensitive and vulnerable to a small perturbation of inputs and do not generalize well across different datasets. This lack of robustness derails the use of NLP systems in real-world applications.
