@@ -6,7 +6,7 @@ permalink: /
 
 ## Ask/Vote on Questions
 
-Ask your questions, and vote on others, here: https://app.sli.do/event/ucfbxrar
+Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/ucfbxrar).
 
 ## Overview
 
