@@ -20,9 +20,19 @@ permalink: /references
 
 
 ### Finding Lack of Robustness (Attacks)
+1. **Generating Natural Adversarial Examples**. *Zhengli Zhao, Dheeru Dua, Sameer Singh*. ICLR 2018. [[pdf](https://arxiv.org/abs/1710.11342)]
+1. **Semantically Equivalent Adversarial Rules for Debugging NLP models**. *Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin*. ACL 2018.
 1. **Generating Natural Language Adversarial Examples**. *Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani Srivastava, Kai-Wei Chang*. EMNLP 2018. [[pdf](https://www.aclweb.org/anthology/D18-1316)]
 1. **Universal Adversarial Triggers for Attacking and Analyzing NLP**. *Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, Sameer Singh*. EMNLP-IJCNLP 2019. [[pdf](https://aclanthology.org/D19-1221.pdf)]
-
+1. **Adversarial Semantic Collisions**. *Congzheng Song, Alexander M. Rush, Vitaly Shmatikov*. EMNLP 2020.
+1. **Universal Adversarial Attacks with Natural Triggers for Text Classification**. *Liwei Song, Xinwei Yu, Hsuan-Tung Peng, Karthik Narasimhan*. NAACL 2021.
+1. Surveys:
+    1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**. *Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. [[link](https://arxiv.org/abs/1901.06796)]
+    1. **Towards a Robust Deep Neural Network in Texts: A Survey**. *Wenqi Wang, Run Wang, Lina Wang, Zhibo Wang, Aoshuang Ye*. [[link](https://arxiv.org/abs/1902.07285)]
+    1. **Analysis Methods in Neural Language Processing: A Survey**. *Yonatan Belinkov, James Glass*. TACL 2019. [[link](https://aclanthology.org/Q19-1004/)]
+    1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**. *Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil K. Jain*. [[link](https://arxiv.org/abs/1909.08072)]
+    1. **Adversarial Attacks and Defense on Texts: A Survey**. *Aminul Huq, Mst. Tasnim Pervin*. [[link](https://arxiv.org/abs/2005.14108)]
+    1. thuNLP list of **Must-read Papers on Textual Adversarial Attack and Defense (TAAD)** [[link](https://github.com/thunlp/TAADpapers)]
 
 
 ### Making Models Robust (Defenses)
