@@ -52,4 +52,8 @@ permalink: /references
 1. **Certified Adversarial Robustness via Randomized Smoothing**. *Jeremy M Cohen, Elan Rosenfeld, J. Zico Kolter*. ICML 2019. [[pdf](https://arxiv.org/pdf/1902.02918.pdf)]
 1. **SAFER: A Structure-free Approach for Certified Robustness to Adversarial Word Substitutions**. *Mao Ye, Chengyue Gong, Qiang Liu*. ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.317.pdf)]
 
-More related papers can be found at [https://github.com/thunlp/TAADpaper](https://github.com/thunlp/TAADpaper).
+### Related EMNLP 2021 Papers
+1. **Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning**. *Linyang Li, Demin Song, Xiaonan Li, Jiehang Zeng, Ruotian Ma, Xipeng Qiu*. [[link](https://arxiv.org/abs/2108.13888)]
+2. **Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer**. *Fanchao Qi, Yangyi Chen, Xurui Zhang, Mukai Li, Zhiyuan Liu, Maosong Sun.* [[link](https://aclanthology.org/2021.emnlp-main.374.pdf)]
+
+More related papers can be found at [https://github.com/thunlp/TAADpaper](https://github.com/thunlp/TAADpapers).
