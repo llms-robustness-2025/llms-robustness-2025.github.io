@@ -57,5 +57,15 @@ permalink: /references
 ### Related EMNLP 2021 Papers
 1. **Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning**. *Linyang Li, Demin Song, Xiaonan Li, Jiehang Zeng, Ruotian Ma, Xipeng Qiu*. [[link](https://arxiv.org/abs/2108.13888)]
 2. **Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer**. *Fanchao Qi, Yangyi Chen, Xurui Zhang, Mukai Li, Zhiyuan Liu, Maosong Sun.* [[link](https://aclanthology.org/2021.emnlp-main.374.pdf)]
+3. **Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder**. *Alvin Chan, Yi Tay, Yew-Soon Ong, Aston Zhang*. [[link](https://aclanthology.org/2020.findings-emnlp.373/)]
+4. **Mitigating Data Poisoning in Text Classification with Differential Privacy**. *Chang Xu, Jun Wang, Francisco Guzmán, Benjamin Rubinstein, Trevor Cohn*. [[link](https://aclanthology.org/2021.findings-emnlp.369/)]
+5. **Multi-granularity Textual Adversarial Attack with Behavior Cloning**. *Yangyi Chen, Jin Su, Wei Wei*. [[link](https://aclanthology.org/2021.emnlp-main.371/)]
+6. **RockNER: A Simple Method to Create Adversarial Examples for Evaluating the Robustness of Named Entity Recognition Models**. *Bill Yuchen Lin, Wenyang Gao, Jun Yan, Ryan Moreno, Xiang Ren*. [[link](https://aclanthology.org/2021.emnlp-main.302/)]
+7. **SeqAttack: On Adversarial Attacks for Named Entity Recognition**. *Walter Simoncini, Gerasimos Spanakis*. [[link](https://aclanthology.org/2021.emnlp-demo.35/)]
+8. **Gradient-based Adversarial Attacks against Text Transformers**. *Chuan Guo, Alexandre Sablayrolles, Hervé Jégou, Douwe Kiela*. [[link](https://aclanthology.org/2021.emnlp-main.464/)]
+9. **Adversarial Attacks on Knowledge Graph Embeddings via Instance Attribution Methods**. *Peru Bhardwaj, John Kelleher, Luca Costabello, Declan O’Sullivan*. [[link](https://aclanthology.org/2021.emnlp-main.648/)]
+10. **Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution**. *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, Cho-Jui Hsieh*. [[link](https://aclanthology.org/2021.emnlp-main.251/)]
+11. **On the Transferability of Adversarial Attacks against Neural Text Classifier**. *Liping Yuan, Xiaoqing Zheng, Yi Zhou, Cho-Jui Hsieh, Kai-Wei Chang*. [[link](https://aclanthology.org/2021.emnlp-main.121/)]
+12. **Don’t Search for a Search Method — Simple Heuristics Suffice for Adversarial Text Attacks**. *Nathaniel Berger, Stefan Riezler, Sebastian Ebert, Artem Sokolov*. [[link](https://aclanthology.org/2021.emnlp-main.647/)]
 
-More related papers can be found at [https://github.com/thunlp/TAADpaper](https://github.com/thunlp/TAADpapers).
+More related papers can be found at [https://github.com/thunlp/TAADpapers](https://github.com/thunlp/TAADpapers).
