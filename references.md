@@ -24,8 +24,10 @@ permalink: /references
 1. **Semantically Equivalent Adversarial Rules for Debugging NLP models**. *Marco Tulio Ribeiro, Sameer Singh, Carlos Guestrin*. ACL 2018.
 1. **Generating Natural Language Adversarial Examples**. *Moustafa Alzantot, Yash Sharma, Ahmed Elgohary, Bo-Jhang Ho, Mani Srivastava, Kai-Wei Chang*. EMNLP 2018. [[pdf](https://www.aclweb.org/anthology/D18-1316)]
 1. **Universal Adversarial Triggers for Attacking and Analyzing NLP**. *Eric Wallace, Shi Feng, Nikhil Kandpal, Matt Gardner, Sameer Singh*. EMNLP-IJCNLP 2019. [[pdf](https://aclanthology.org/D19-1221.pdf)]
-1. **Adversarial Semantic Collisions**. *Congzheng Song, Alexander M. Rush, Vitaly Shmatikov*. EMNLP 2020.
-1. **Universal Adversarial Attacks with Natural Triggers for Text Classification**. *Liwei Song, Xinwei Yu, Hsuan-Tung Peng, Karthik Narasimhan*. NAACL 2021.
+1. **Generating Label Cohesive and Well-Formed Adversarial Claims**. *Pepa Atanasova, Dustin Wright, Isabelle Augenstein*. EMNLP 2020. [[link](https://aclanthology.org/2020.emnlp-main.256/)]
+1. **Towards Controllable Biases in Language Generation**. *Emily Sheng, Kai-Wei Chang, Premkumar Natarajan, and Nanyun Peng*. EMNLP-Finding 2020. [[link](https://arxiv.org/abs/2005.00268)]
+1. **Adversarial Semantic Collisions**. *Congzheng Song, Alexander M. Rush, Vitaly Shmatikov*. EMNLP 2020. [[link](https://arxiv.org/abs/2011.04743)]
+1. **Universal Adversarial Attacks with Natural Triggers for Text Classification**. *Liwei Song, Xinwei Yu, Hsuan-Tung Peng, Karthik Narasimhan*. NAACL 2021. [[link](https://arxiv.org/abs/2005.00174)]
 1. Surveys:
     1. **Adversarial Attacks on Deep Learning Models in Natural Language Processing: A Survey**. *Wei Emma Zhang, Quan Z. Sheng, Ahoud Alhazmi, Chenliang Li*. [[link](https://arxiv.org/abs/1901.06796)]
     1. **Towards a Robust Deep Neural Network in Texts: A Survey**. *Wenqi Wang, Run Wang, Lina Wang, Zhibo Wang, Aoshuang Ye*. [[link](https://arxiv.org/abs/1902.07285)]
