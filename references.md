@@ -35,13 +35,16 @@ permalink: /references
     1. **Adversarial Attacks and Defense on Texts: A Survey**. *Aminul Huq, Mst. Tasnim Pervin*. [[link](https://arxiv.org/abs/2005.14108)]
 
 
-### Making Models Robust (Defenses)
+### Adversrial Training (Defenses)
 1. **Defense against Synonym Substitution-based Adversarial Attacks via Dirichlet Neighborhood Ensemble**. *Yi Zhou, Xiaoqing Zheng, Cho-Jui Hsieh, Kai-Wei Chang, Xuanjing Huang*. ACL-IJCNLP 2021. [[pdf](https://aclanthology.org/2021.acl-long.426.pdf)]
 1. **Adversarial Training with Fast Gradient Projection Method against Synonym Substitution based Text Attacks**. *Xiaosen Wang, Yichen Yang, Yihe Deng, Kun He*. AAAI 2021. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/17648/17455)] 
+1. **Adversarial Training for Free!**. Ali Shafahi, Mahyar Najibi, Amin Ghiasi, Zheng Xu, John Dickerson, Christoph Studer, Larry S. Davis, Gavin Taylor, Tom Goldstein. NeurIPS 2019. [[pdf](https://arxiv.org/pdf/1904.12843.pdf)]
 1. **FreeLB: Enhanced Adversarial Training for Language Understanding**. *Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu*. CoRR 2019. [[pdf](https://arxiv.org/pdf/1909.11764.pdf)]
 1. **Learning to Discriminate Perturbations for Blocking Adversarial Attacks in Text Classification**. *Yichao Zhou, Jyun-Yu Jiang, Kai-Wei Chang, Wei Wang*. EMNLP-IJCNLP 2019. [[pdf](https://www.aclweb.org/anthology/D19-1496.pdf)]
+1. **Towards Improving Adversarial Training of NLP Models**. *Jin Yong Yoo, Yanjun Qi*. EMNLP-Finding 2021. [[pdf](https://aclanthology.org/2021.findings-emnlp.81.pdf)]
+1. **Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution**. *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, Cho-Jui Hsieh*. EMNLP 2021.[[link](https://aclanthology.org/2021.emnlp-main.251/)]
 
-### Certified Robustness
+### Certified Robustness (Defenses)
 1. **Certified Robustness to Adversarial Word Substitutions**. *Robin Jia, Aditi Raghunathan, Kerem Göksel, Percy Liang*. EMNLP 2019. [[pdf](https://aclanthology.org/D19-1423.pdf)]
 1. **Achieving Verified Robustness to Symbol Substitutions via Interval Bound Propagation**. *Po-Sen Huang, Robert Stanforth, Johannes Welbl, Chris Dyer, Dani Yogatama, Sven Gowal, Krishnamurthy Dvijotham, Pushmeet Kohli*. EMNLP 2019. [[pdf](https://aclanthology.org/D19-1419.pdf)]
 1. **Robustness Verification for Transformers**. *Zhouxing Shi, Huan Zhang, Kai-Wei Chang, Minlie Huang, Cho-Jui Hsieh*. ICLR 2020. [[pdf](https://arxiv.org/pdf/2002.06622.pdf)]
@@ -63,5 +66,7 @@ permalink: /references
 10. **Searching for an Effective Defender: Benchmarking Defense against Adversarial Word Substitution**. *Zongyi Li, Jianhan Xu, Jiehang Zeng, Linyang Li, Xiaoqing Zheng, Qi Zhang, Kai-Wei Chang, Cho-Jui Hsieh*. [[link](https://aclanthology.org/2021.emnlp-main.251/)]
 11. **On the Transferability of Adversarial Attacks against Neural Text Classifier**. *Liping Yuan, Xiaoqing Zheng, Yi Zhou, Cho-Jui Hsieh, Kai-Wei Chang*. [[link](https://aclanthology.org/2021.emnlp-main.121/)]
 12. **Don’t Search for a Search Method — Simple Heuristics Suffice for Adversarial Text Attacks**. *Nathaniel Berger, Stefan Riezler, Sebastian Ebert, Artem Sokolov*. [[link](https://aclanthology.org/2021.emnlp-main.647/)]
+13. **Towards Improving Adversarial Training of NLP Models**. *Jin Yong Yoo, Yanjun Qi*. [[pdf](https://aclanthology.org/2021.findings-emnlp.81.pdf)]
 
-More related papers can be found at [https://github.com/thunlp/TAADpapers](https://github.com/thunlp/TAADpapers).
+
+Some other related papers can be found at [https://github.com/thunlp/TAADpapers](https://github.com/thunlp/TAADpapers).
