@@ -4,9 +4,6 @@ title: References
 permalink: /references
 ---
 
-
-## References
-
 ### Writing Challenging Examples
 1. **Beyond Accuracy: Behavioral Testing of NLP Models with CheckList**. *Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh*. ACL 2020. [[pdf](https://aclanthology.org/2020.acl-main.442.pdf)]
 1. **Evaluating Models’ Local Decision Boundaries via Contrast Sets**. *Matt Gardner, Yoav Artzi, Victoria Basmov, Jonathan Berant, Ben Bogin, Sihao Chen, Pradeep Dasigi, Dheeru Dua, Yanai Elazar, Ananth Gottumukkala, Nitish Gupta, Hannaneh Hajishirzi, Gabriel Ilharco, Daniel Khashabi, Kevin Lin, Jiangming Liu, Nelson F. Liu, Phoebe Mulcaire, Qiang Ning, Sameer Singh, Noah A. Smith, Sanjay Subramanian, Reut Tsarfaty, Eric Wallace, Ally Zhang, Ben Zhou*. Findings of EMNLP 2020. [[pdf](https://aclanthology.org/2020.findings-emnlp.117.pdf)]
@@ -36,7 +33,6 @@ permalink: /references
     1. **Analysis Methods in Neural Language Processing: A Survey**. *Yonatan Belinkov, James Glass*. TACL 2019. [[link](https://aclanthology.org/Q19-1004/)]
     1. **Adversarial Attacks and Defenses in Images, Graphs and Text: A Review**. *Han Xu, Yao Ma, Haochen Liu, Debayan Deb, Hui Liu, Jiliang Tang, Anil K. Jain*. [[link](https://arxiv.org/abs/1909.08072)]
     1. **Adversarial Attacks and Defense on Texts: A Survey**. *Aminul Huq, Mst. Tasnim Pervin*. [[link](https://arxiv.org/abs/2005.14108)]
-    1. thuNLP list of **Must-read Papers on Textual Adversarial Attack and Defense (TAAD)** [[link](https://github.com/thunlp/TAADpapers)]
 
 
 ### Making Models Robust (Defenses)
