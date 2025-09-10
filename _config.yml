@@ -1,8 +1,8 @@
 # Site settings
-title: "Robustness and Adversarial Examples in NLP"
-email: "robustnlp-tutorial@googlegroups.com"
+title: "Towards Robust and Trustworthy Large Language Models"
+email: "llms-robustness-2025@googlegroups.com"
 baseurl: ""
-url: "robustnlp-tutorial.github.io"
+url: "llms-robustness-2025.github.io"
 
 navbar-links:
     Overview: "/#overview"
