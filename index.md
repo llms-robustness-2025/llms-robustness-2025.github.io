@@ -1,23 +1,17 @@
 ---
-title: EMNLP 21 Tutorial on Robust NLP 
+title: ACML 2025 Towards Robust and Trustworthy Large Language
+Models - Issues and Mitigation Strategies 
 layout: page
 permalink: /
 ---
 
-## Ask/Vote on Questions
-
-Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/ucfbxrar).
-
 ## Overview
 
-Recent studies show that many NLP systems are sensitive and vulnerable to a small perturbation of inputs and do not generalize well across different datasets. This lack of robustness derails the use of NLP systems in real-world applications.
-This tutorial aims at bringing awareness of practical concerns about NLP robustness. 
-It targets NLP researchers and practitioners who are interested in building reliable NLP systems. 
-In particular, we will review recent studies on analyzing the weakness of NLP systems when facing adversarial inputs 
-and data with a distribution shift. We will provide the audience with a holistic view of
-1. how to use adversarial examples to examine the weakness of NLP models and facilitate debugging; 
-1. how to enhance the robustness of existing NLP models and defense against adversarial inputs; 
-1. how the consideration of robustness affects the real-world NLP applications used in our daily lives. 
+Recent advancements in large language models (LLMs) have achieved superhuman performance across various domains and tasks, unlocking their potential in real-world applications.
+However, robustness and trustworthiness issues hinder their reliable deployment.
+Robustness issues refer to inconsistent model behaviors under equivalent conditions, such as sensitivity to minor prompt variations.
+Trustworthiness encompasses issues like hallucinations--situations where LLMs produce factually incorrect or input-conflicting outputs--and fairness issues, including biases toward certain races, genders, value systems, or languages.
+Addressing these is crucial for building reliable applications with these powerful yet vulnerable models.
 
 We will conclude the tutorial by outlining future research directions in this area.
 
