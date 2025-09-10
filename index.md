@@ -18,8 +18,8 @@ We will conclude the tutorial by outlining future research directions in this ar
 
 <div class="col-md-4">
     <div class="profile height150">
-<!--         <div><a href=""><img class="avatar-img" width=150 src="images/he.png"> </a></div>
-        <div style="margin-bottom:40px"><center><b> Cheng-Kuang Wu</b> <br> Appier </center></div> -->
+        <div><a href="https://brian-ckwu.github.io/"><img class="avatar-img" width=150 src="images/ckwu.jpg"> </a></div>
+        <div style="margin-bottom:40px"><center><b> Cheng-Kuang Wu</b> <br> Appier </center></div>
     </div>
 </div>
 <div class="col-md-4">
