@@ -24,7 +24,7 @@ We will conclude the tutorial by outlining future research directions in this ar
 </div>
 <div class="col-md-4">
     <div class="profile height150">
-        <div><a href="https://theblackcat102.github.io/"><img class="avatar-img" width=150 src="images/zhiruitam.jpeg"></a></div>
+        <div><a href="https://zrt.wtf/"><img class="avatar-img" width=150 src="images/zhiruitam.jpeg"></a></div>
         <div style="margin-bottom:40px"><center><b>Zhi Rui Tam</b><br> NTU</center></div>
     </div>
 </div>
