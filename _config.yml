@@ -9,7 +9,7 @@ navbar-links:
     Speakers: "/#speakers"
     Outline: "/#outline"
     Slides: "/#slides"
-    References: "references"
+    Readings: "readings"
 
 #twitter_username: jekyllrb
 #github_username:  jekyll
