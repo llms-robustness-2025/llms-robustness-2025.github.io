@@ -75,10 +75,13 @@ permalink: /readings
    ICLR 2025.
 
 ### Hallucinations
+#### General Introduction to Hallucinations
 
 1. [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/abs/2311.05232). *Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, Ting Liu*. ACM TOIS 2025.
 
 2. [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/abs/2309.01219). *Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Chen Xu, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi*. Computational Linguistics (CL) 2025​
+
+#### Why Do Hallucinations Occur? Root Causes behind Hallucinations
 
 3. [Why Language Models Hallucinate](https://arxiv.org/abs/2509.04664). *Adam Tauman Kalai, Ofir Nachum, Santosh S. Vempala, Edwin Zhang*. arXiv preprint 2025.
 
@@ -87,6 +90,8 @@ permalink: /readings
 5. [Unfamiliar Finetuning Examples Control How Language Models Hallucinate](https://aclanthology.org/2025.naacl-long.183/). *Katie Kang, Eric Wallace, Claire Tomlin, Aviral Kumar, Sergey Levine*. NAACL 2025.
 
 6. [How Language Model Hallucinations Can Snowball](https://arxiv.org/abs/2305.13534). *Muru Zhang, Ofir Press, William Merrill, Alisa Liu, Noah A. Smith*. ICML 2024.
+
+#### Hallucination Detection and Benchmarks​
 
 7. [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251). *Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi*. EMNLP 2023.
 
@@ -98,9 +103,59 @@ permalink: /readings
 
 11. [MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents](https://arxiv.org/abs/2404.10774). *Liyan Tang, Philippe Laban, Greg Durrett*. EMNLP 2024.
 
+#### Hallucination Mitigation Strategies​ (Fine-Tuning)
+
+12. [R-Tuning: Instructing Large Language Models to Say ‘I Don’t Know’](https://aclanthology.org/2024.naacl-long.394/). *Hanning Zhang, Shizhe Diao, Yong Lin, Yi Fung, Qing Lian, Xingyao Wang, Yangyi Chen, Heng Ji, Tong Zhang*. NAACL 2024.
+
+13. [Fine-tuning Language Models for Factuality](https://arxiv.org/abs/2311.08401). *Katherine Tian, Eric Mitchell, Huaxiu Yao, Christopher D. Manning, Chelsea Finn*. ICLR 2024.
+
+14. [FLAME: Factuality-Aware Alignment for Large Language Models](https://arxiv.org/abs/2405.01525). *Sheng-Chieh Lin, Luyu Gao, Barlas Oguz, Wenhan Xiong, Jimmy Lin, Wen-tau Yih, Xilun Chen*. NeurIPS 2024.
+
+#### Hallucination Mitigation Strategies​ (Inference-Time Algorithms)
+
+15. [DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883). *Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, Pengcheng He*. ICLR 2024.
+
+16. [Trusting Your Evidence: Hallucinate Less with Context-aware Decoding](https://arxiv.org/abs/2305.14739). *Weijia Shi, Xiaochuang Han, Mike Lewis, Yulia Tsvetkov, Luke Zettlemoyer, Scott Wen-tau Yih*. NAACL 2024.
+
+17. [Fidelity-Enriched Contrastive Search: Reconciling the Faithfulness-Diversity Trade-Off in Text Generation](https://arxiv.org/abs/2310.14981). *Wei-Lin Chen, Cheng-Kuang Wu, Hsin-Hsi Chen, Chung-Chi Chen*. EMNLP 2023.
+
+18. [Chain-of-Verification Reduces Hallucination in Large Language Models](https://arxiv.org/abs/2309.11495). *Shehzaad Dhuliawala, Mojtaba Komeili, Jing Xu, Roberta Raileanu, Xian Li, Asli Celikyilmaz, Jason Weston*. ACL 2024 Findings.
+
 ### Prompt Robustness
 
+#### Different Types of Prompt Variations​
+
+1. (Formatting in Few-Shot Examples) [Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting](https://arxiv.org/abs/2310.11324v2). *Melanie Sclar, Yejin Choi, Yulia Tsvetkov, Alane Suhr*. ICLR 2024.
+
+2. (Format Restrictions for Structured Outputs) [Let Me Speak Freely? A Study on the Impact of Format Restrictions on Performance of Large Language Models](https://arxiv.org/abs/2408.02442). *Zhi Rui Tam, Cheng-Kuang Wu, Yi-Lin Tsai, Chieh-Yen Lin, Hung-yi Lee, Yun-Nung Chen*. EMNLP 2024 Industry Track.
+
+3. (Paraphrased Instructions) [Evaluating the Zero-shot Robustness of Instruction-tuned Language Models](https://arxiv.org/abs/2306.11270). *Jiuding Sun, Chantal Shaib, Byron C. Wallace*. ICLR 2024.
+
+#### Implications for Model Evaluation​
+
+4. [State of What Art? A Call for Multi-Prompt LLM Evaluation](https://arxiv.org/abs/2401.00595). *Moran Mizrahi, Guy Kaplan, Dan Malkin, Rotem Dror, Dafna Shahaf, Gabriel Stanovsky*. TACL 2024.
+
 ### Position and Order Biases
+
+#### Types of Position Biases​
+
+1. (Order of Few-Shot Examples) [Calibrate Before Use: Improving Few-Shot Performance of Language Models](https://arxiv.org/abs/2102.09690). *Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, Sameer Singh*. ICML 2021.
+
+2. (Order of Few-Shot Examples) [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786). *Yao Lu, Max Bartolo, Alastair Moore, Sebastian Riedel, Pontus Stenetorp*. ACL 2022.
+
+3. (Order of Source Documents) [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172). *Nelson F. Liu, Kevin Lin, John Hewitt, Ashwin Paranjape, Michele Bevilacqua, Fabio Petroni, Percy Liang*. TACL 2023.
+
+4. (Order of Choices) [Large Language Models Are Not Robust Multiple Choice Selectors](https://arxiv.org/abs/2309.03882). *Chujie Zheng, Hao Zhou, Fandong Meng, Jie Zhou, Minlie Huang*. ICLR 2024.
+
+5. (Order of Choices) [Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models](https://arxiv.org/abs/2406.03009). *Sheng-Lun Wei, Cheng-Kuang Wu, Hen-Hsen Huang, Hsin-Hsi Chen*. ACL 2024 Findings.
+
+#### Mitigation Strategies
+
+6. (Re-ordering Prompt Contents) [Attention Sorting Combats Recency Bias In Long Context Language Models](https://arxiv.org/abs/2310.01427). *Alexander Peysakhovich, Adam Lerer*. arXiv preprint 2023.
+
+7. (Attention Calibration) [Found in the Middle: Calibrating Positional Attention Bias Improves Long Context Utilization](https://arxiv.org/abs/2406.16008). *Cheng-Yu Hsieh, Yung-Sung Chuang, Chun-Liang Li, Zifeng Wang, Long T. Le, Abhishek Kumar, James Glass, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister*. ACL 2024 Findings.
+
+8. (Position-Invariant Inference) [Eliminating Position Bias of Language Models: A Mechanistic Approach](https://arxiv.org/abs/2407.01100). *Ziqi Wang, Hanlin Zhang, Xiner Li, Kuan-Hao Huang, Chi Han, Shuiwang Ji, Sham M. Kakade, Hao Peng, Heng Ji*. ICLR 2025.
 
 ### Robustness of Reasoning Models
 
