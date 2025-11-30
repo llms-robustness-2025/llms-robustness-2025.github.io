@@ -74,9 +74,29 @@ permalink: /readings
    *Junfeng Fang, Houcheng Jiang, Kun Wang, Yunshan Ma, Shi Jie, Xiang Wang, Xiangnan He, Tat-seng Chua*.
    ICLR 2025.
 
-
-
 ### Hallucinations
+
+1. [A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/abs/2311.05232). *Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, Ting Liu*. ACM TOIS 2025.
+
+2. [Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models](https://arxiv.org/abs/2309.01219). *Yue Zhang, Yafu Li, Leyang Cui, Deng Cai, Lemao Liu, Tingchen Fu, Xinting Huang, Enbo Zhao, Yu Zhang, Chen Xu, Yulong Chen, Longyue Wang, Anh Tuan Luu, Wei Bi, Freda Shi, Shuming Shi*. Computational Linguistics (CL) 2025​
+
+3. [Why Language Models Hallucinate](https://arxiv.org/abs/2509.04664). *Adam Tauman Kalai, Ofir Nachum, Santosh S. Vempala, Edwin Zhang*. arXiv preprint 2025.
+
+4. [Calibrated Language Models Must Hallucinate](https://arxiv.org/abs/2311.14648). *Adam Tauman Kalai, Santosh S. Vempala*. ACM STOC 2024.
+
+5. [Unfamiliar Finetuning Examples Control How Language Models Hallucinate](https://aclanthology.org/2025.naacl-long.183/). *Katie Kang, Eric Wallace, Claire Tomlin, Aviral Kumar, Sergey Levine*. NAACL 2025.
+
+6. [How Language Model Hallucinations Can Snowball](https://arxiv.org/abs/2305.13534). *Muru Zhang, Ofir Press, William Merrill, Alisa Liu, Noah A. Smith*. ICML 2024.
+
+7. [FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://arxiv.org/abs/2305.14251). *Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Wei Koh, Mohit Iyyer, Luke Zettlemoyer, Hannaneh Hajishirzi*. EMNLP 2023.
+
+8. [Merging Facts, Crafting Fallacies: Evaluating the Contradictory Nature of Aggregated Factual Claims in Long-Form Generations](https://arxiv.org/abs/2402.05629). *Cheng-Han Chiang, Hung-yi Lee*. ACL 2024 Findings.
+
+9. [Measuring short-form factuality in large language models](https://arxiv.org/abs/2411.04368). *Jason Wei, Nguyen Karina, Hyung Won Chung, Yunxin Joy Jiao, Spencer Papay, Amelia Glaese, John Schulman, William Fedus*. arXiv preprint 2024.
+
+10. [SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric Knowledge](https://arxiv.org/abs/2509.07968). *Lukas Haas, Gal Yona, Giovanni D'Antonio, Sasha Goldshtein, Dipanjan Das*. arXiv preprint 2025.
+
+11. [MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents](https://arxiv.org/abs/2404.10774). *Liyan Tang, Philippe Laban, Greg Durrett*. EMNLP 2024.
 
 ### Prompt Robustness
 
