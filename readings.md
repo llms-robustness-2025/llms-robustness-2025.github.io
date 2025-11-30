@@ -82,10 +82,84 @@ permalink: /readings
 
 ### Position and Order Biases
 
+### Robustness of Reasoning Models
+
+1. [Is Chain-of-Thought Reasoning of LLMs a Mirage? A Data Distribution Lens](https://arxiv.org/abs/2508.01191).
+   *Chengshuai Zhao, Zhen Tan, Pingchuan Ma, Dawei Li, Bohan Jiang, Yancheng Wang, Yingzhen Yang, Huan Liu*.
+   arXiv preprint 2025.
+1. [The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://arxiv.org/abs/2506.06941).
+   *Parshin Shojaee, Iman Mirzadeh, Keivan Alizadeh, Maxwell Horton, Samy Bengio, Mehrdad Farajtabar*.
+   arXiv preprint 2025.
+1. [An Investigation of Robustness of LLMs in Mathematical Reasoning: Benchmarking with Mathematically-Equivalent Transformation of Advanced Mathematical Problems](https://arxiv.org/abs/2508.08833).
+   *Yuren Hao, Xiang Wan, Chengxiang Zhai*.
+   arXiv preprint 2025.
+1. [Can language models perform robust reasoning in chain-of-thought prompting with noisy rationales?](https://arxiv.org/pdf/2410.23856v1).
+   *Zhou, Z., Tao, R., Zhu, J., Luo, Y., Wang, Z., Han, B.*.
+   Advances in Neural Information Processing Systems 2024.
+1. [Corrupted by Reasoning: Reasoning Language Models Become Free-Riders in Public Goods Games](https://arxiv.org/abs/2506.23276).
+   *David Guzman Piedrahita et al*.
+   COLM 2025.
+1. [MoReBench: Evaluating Procedural and Pluralistic Moral Reasoning in Language Models, More than Outcomes](https://arxiv.org/abs/2510.16380).
+   *Yu Ying Chiu, Michael S. Lee, Rachel Calcott, Brandon Handoko, Paul de Font-Reaulx, Paula Rodriguez, Chen Bo Calvin Zhang, Ziwen Han, Udari Madhushani Sehwag, Yash Maurya, Christina Q. Knight, Harry R. Lloyd, Florence Bacus, Mantas Mazeika, Bing Liu, Yejin Choi, Mitchell L. Gordon, Sydney Levine*.
+   arXiv preprint 2025.
+
+
 ### Fairness and Social Bias
+
+1. [CulturalBench: A Robust, Diverse, and Challenging Cultural Benchmark](https://arxiv.org/abs/2410.02677).
+   *Yu Ying Chiu et al.*
+   Benchmark / arXiv preprint.
+1. [Culture Cartography: Evaluating Global Cultural Coverage in Large Language Models](https://aclanthology.org/2025.emnlp-main.91.pdf).
+   *Caleb Ziems et al.*
+   arXiv preprint 2024.
+1. [INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge](https://arxiv.org/abs/2411.19799).
+   *Angelika Romanou, Negar Foroutan, Anna Sotnikova, Zeming Chen, Sree Harsha Nelaturu, Sumeet Singh, Rakesh Maheshwary, Marco Altomare, Mohamed A. Haggag, Anagha Snegha, …, Antoine Bosselut*.
+   arXiv preprint 2024.
+1. [Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+ Languages and Cultures](https://arxiv.org/abs/2510.24081).
+   *Global PIQA Collaboration*.
+   arXiv preprint 2025.
+1. [DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life](https://arxiv.org/abs/2410.02683).
+   *Yu Ying Chiu, Liwei Jiang, Yejin Choi*.
+   ICLR 2025.
+1. [Will AI Tell Lies to Save Sick Children? Litmus-Testing AI Values under Moral Dilemmas](https://arxiv.org/abs/2505.14633).
+   *Yu Ying Chiu, Zhilin Wang, Sharan Maiya, Yejin Choi, Kyle Fish, Sydney Levine, Evan Hubinger*.
+   ACL Findings 2025.
+1. [Modular Pluralism: Pluralistic Alignment via Multi-LLM Collaboration](https://arxiv.org/abs/2406.15951).
+    *Shangbin Feng, Taylor Sorensen, Yuhan Liu, Jillian Fisher, Chan Young Park, Yejin Choi, Yulia Tsvetkov*.
+    EMNLP 2024.
+1. [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509).
+    *Runjin Chen, Andy Arditi, Henry Sleight, Owain Evans, Jack Lindsey*.
+    arXiv preprint 2025.
+1. [Spectrum Tuning: Post-Training for Distributional Coverage and In-Context Steerability](https://arxiv.org/abs/2510.06084).
+    *Taylor Sorensen, Benjamin Newman, Jared Moore, Chan Young Park, Jillian Fisher, Niloofar Mireshghallah, Liwei Jiang, Yejin Choi*.
+    arXiv preprint 2025.
 
 ### Robustness for Multimodal LLMs
 
-### Robustness of Reasoning Models
-
-
+1. [MedVoiceBias: A Controlled Study of Audio LLM Behavior in Clinical Decision-Making](https://arxiv.org/abs/2511.06592).
+   *Zhi Rui Tam, Yun-Nung Chen*.
+   arXiv preprint 2025.
+1. [Worst of Both Worlds: Biases Compound in Pre-trained Vision-and-Language Models](https://arxiv.org/abs/2104.08666).
+   *Tejas Srinivasan, Yonatan Bisk*.
+   GeBNLP (NAACL Workshop) 2022.
+1. [Images Speak Louder than Words: Understanding and Mitigating Bias in Vision-Language Model from a Causal Mediation Perspective](https://arxiv.org/abs/2407.02814).
+   *Zhaotian Weng, Zijun Gao, Jerone Andrews, Jieyu Zhao*.
+   EMNLP 2024.
+1. [The Illusion of Readiness: Stress Testing Large Frontier Models on Multimodal Medical Benchmarks](https://arxiv.org/abs/2509.18234).
+   *Yu Gu, Jingjing Fu, Xiaodong Liu, Jeya Maria Jose Valanarasu, Noel Codella, Reuben Tan, Qianchu Liu, Ying Jin, Sheng Zhang, Jinyu Wang, Rui Wang, Lei Song, Guanghui Qin, Naoto Usuyama, Cliff Wong, Cheng Hao, Hohin Lee, Praneeth Sanapathi, Sarah Hilado, Bian Jiang, Javier Alvarez-Valle, Mu Wei, Jianfeng Gao, Eric Horvitz, Matt Lungren, Hoifung Poon, Paul Vozila*.
+   arXiv preprint 2025.
+1. [What's Missing in Vision-Language Models? Probing Their Struggles with Causal Order Reasoning](https://arxiv.org/abs/2506.00869).
+   *Zhaotian Weng, Haoxuan Li, Kuan-Hao Huang, Jieyu Zhao*.
+   arXiv preprint 2025.
+1. [Can Large Vision-Language Models Correct Semantic Grounding Errors By Themselves?](https://arxiv.org/abs/2404.06510).
+   *Yuan-Hong Liao, Rafid Mahmood, Sanja Fidler, David Acuna*.
+   CVPR 2025.
+1. [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966).
+   *Alex Su, Haozhe Wang, Weiming Ren, Fangzhen Lin, Wenhu Chen*.
+   arXiv preprint 2025.
+1. [GRIT: Teaching MLLMs to Think with Images](https://arxiv.org/abs/2505.15879).
+   *Yue Fan, Xuehai He, Diji Yang, Kaizhi Zheng, Ching-Chen Kuo, Yuting Zheng, Sravana Jyothi Narayanaraju, Xinze Guan, Xin Eric Wang*.
+   arXiv preprint 2025.
+1. [More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models](https://arxiv.org/abs/2505.21523).
+   *Authors as listed in the paper*.
+   arXiv preprint.
