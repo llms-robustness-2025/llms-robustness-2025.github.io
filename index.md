@@ -47,3 +47,14 @@ We will conclude the tutorial by outlining future research directions in this ar
 - Fairness and Social Bias
 - Robustness for Multimodal LLMs
 - Robustness of Reasoning Models
+
+## Slides
+
+<iframe 
+  src="https://docs.google.com/viewer?embedded=true&url=https://llms-robustness-2025.github.io/ACML-2025.pdf" 
+  width="100%" 
+  height="400px"
+  style="border:none;">
+</iframe>
+
+
